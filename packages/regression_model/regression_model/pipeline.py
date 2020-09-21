@@ -7,6 +7,7 @@ from regression_model.processing import features
 from regression_model.config import config
 
 import logging
+import numpy as np
 
 
 _logger = logging.getLogger(__name__)
